@@ -105,6 +105,14 @@
 		  <version>2.9.9</version>
 		</dependency>
 
+		<!-- INTENTIONALLY VULNERABLE: Struts2 (for local scanner testing ONLY) -->
+		<dependency>
+		  <groupId>org.apache.struts</groupId>
+		  <artifactId>struts2-core</artifactId>
+		  <version>2.3.31</version>
+		</dependency>
+
+
 
 	</dependencies>
 
